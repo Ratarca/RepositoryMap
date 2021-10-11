@@ -1,4 +1,4 @@
-# RepositoryMap
+# Repository Map
 An intuitive guide for all portfolio created by ratarca
 
 # Summary
@@ -42,17 +42,7 @@ An intuitive guide for all portfolio created by ratarca
   
  </details>
  
- <details>
-  <summary> :snake: Python </summary>
-   
-   |Project            | Describe      | Link         | 
-   |-------------      | ------------- | -------------| 
-   | CCB-PYTHON        |      -        |      -       | 
-   | Standard Code     |      -        |      -       |
-   | Clean Arch        |      -        |      -       |
-
-   
- </details>
+ 
  
   <details>
   <summary> :tiger2: C# </summary>
@@ -86,3 +76,19 @@ An intuitive guide for all portfolio created by ratarca
   
  </details>
 
+<details>
+  <summary> :snake: Python </summary>
+   
+   |Project            | Describe      | Link         | 
+   |-------------      | ------------- | -------------| 
+   | CCB-PYTHON        |Fundamentals python course!|    [:link:](https://github.com/Ratarca/CCB-PYTHON)    | 
+   | Standard Code     |My patterns when i code in python!|      [:link:](https://github.com/Ratarca/clean-code-python)      |
+   | Clean Arch        |      -        |      -       |
+
+   
+ </details>
+
+
+# Visit my linkedin <br>
+  <a href="https://www.linkedin.com/in/rafael-targino-4b58b2100/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
