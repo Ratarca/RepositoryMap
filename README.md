@@ -65,7 +65,7 @@ An intuitive guide for all portfolio created by ratarca
    
    |Project            | Describe      | Link         | 
    |-------------      | ------------- | -------------| 
-   |CCB-JS             |      -        |      -       | 
+   |CCB-JS             |Fundamentals course about JS       |      [:link:](https://github.com/Ratarca/CCB-JS)      | 
    |CCB-NODE           |      -        |      -       | 
    |CCB-TS             |      -        |      -       |
    |API                |      -        |      -       |
